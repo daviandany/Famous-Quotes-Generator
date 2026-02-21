@@ -9,6 +9,12 @@
 
 A modern terminal-styled quote generator built to master the integration between **React** and **Node.js**.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fee253ed-8477-4077-9440-faf8777125ae" height="300px" />
+  <img src="https://github.com/user-attachments/assets/39afc601-7d1f-49f7-8839-91d5307e291c" height="300px" />
+</div>
+
+
 ## 🚀 Tech Stack
 
 - **Frontend**: React 18, TypeScript, Tailwind CSS, Axios.
