@@ -11,7 +11,6 @@ const API_URL = "https://dummyjson.com/quotes/random";
 
 app.get("/", (req, res) => {
     res.send("Server running, acess /api/quote")
-    console.log("/ acessed")
 })
 
 app.get("/api/quote", async (req, res) => {
